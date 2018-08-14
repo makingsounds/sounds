@@ -56,7 +56,7 @@ Now that we have some basic terminology, let's record some voice!
 
 ### Recording Voice
 
-The first thing we'll need to do is download and install Audacity, a free software tool for "mixing" sounds. <a href="https://www.audacityteam.org"><img src="https://github.com/makingsounds/sounds/master/logo.png?raw=true"</img></a> 
+The first thing we'll need to do is download and install Audacity, a free software tool for "mixing" sounds. <a href="https://www.audacityteam.org"><img src="logo.png"</img></a> 
 
 ## 2. Putting Sounds Together
 ```markdown
