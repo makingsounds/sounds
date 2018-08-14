@@ -4,7 +4,7 @@ Here in this module we'll learn some general principles of sound recording in or
 
 1. Sound and Noise
 2. Recording Voice
-3. Designing Sounds
+3. Putting Sounds Together
 
 In order to complete the module you'll need access to `a laptop or desktop computer equipped with a microphone`. The rest of the activity will use free sound editing softare and audio files. 
 
@@ -34,33 +34,29 @@ Then, close your eyes again and listen to this:
 What mood does this put you in? What are the elements that create this mood? Why? Can you imagine difficulties that the sound engineer might have had capturing this sound? What are those? How do you imagine they overcame these difficulties? We're going to be tackling our own answers to these questions as we do the activity. But before that, we'll move to a quick discussion of voice. 
 
 ## Recording Voice
+A sound with particular power is the human voice. But, the  thing that makes the human voice wonderful is the exact thing that can make it frustrating to record--the human voice is dynamic, meaning that it moves up and down in volume, and shifts rapidly in texture. Some people have smooth voices, others have raspy ones. Some people speak quietly, while others boom. No matter how nice someone's voice is, recording voice requires awareness of `sibilance` and `clipping`. Let's talk about these ideas so they can help us improve our voice recordings. 
 
+1. Sibilance is a byproduct of how people form words, and the restuling "pops" and "ess" sounds that come from people breathing into a microphone as they speak. When we are recording, generally speaking, we want to put the voice into the microphone, and keep the breath out. If you are experiencing sibilance in your recordings you can use a "wind screen" just in front of the microphone (some people just put a piece of thin cloth over their microphone. But, if a wind screen is not available, speaking at a very slight angle into the microphone can reduce sibilance. 
 
+![Image](src)
+
+2. Clipping is the result of getting a sound that is too loud for our recording system to process. While this might actually be a desirable result in some music genres, in most cases of voice recording, clipping is unpleasant and introduces distracting noise into the signal. Most recording software interfaces will include a simple volume meter that shades from green to yellow to red, where red indicates clipping. While we want to avoid clipping into the red, we also want to make sure that the sound that we are capturing is fully audible. Best practice is to "test" the sounds you'll be recording and adjust the volume to be "loud enough" without clipping. 
+
+![Image](src)
+
+Now that we have some basic terminology, let's record some voice! 
+
+## Recording Voice
+
+OVERVIEW OF USING AUDACITY. SCREENSHOTS AND SAMPLE FILES. 
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
 1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```
+2. List
 
-### Jekyll Themes
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/makingsounds/sounds/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
