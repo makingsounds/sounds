@@ -56,7 +56,30 @@ Now that we have some basic terminology, let's record some voice!
 
 ### Recording Voice
 
-The first thing we'll need to do is `download and install` <a href="https://www.audacityteam.org">Audacity</a>, a free software tool for "mixing" sounds. 
+The first thing we'll need to do is come up with somethign to say. On a sheet of paper, `write down answers to these three questions`: 
+
+1. If you were going to have your own podcast what kind of podcast would it be? 
+    a. A journalistic (news) podcast
+    b. An entertainment (fun) podcast
+    c. A cultural commentary and critique (ideas) podcast
+    
+2. What would the `main take away` be for your podcast. That is, would they learn about boats, 
+or hear new music, or think about things they hadn't thought about before? Write the take 
+away of your podcast as a single sentence. 
+
+    ___________________________________________________________________________
+
+3. What would you `title` your podcast? Example: "The Podcasts Podcast." Write down your title. 
+
+    ___________________________________________________________________________
+
+3. What would your `tag-line` be? For example: "Where peopple learn to share their voice!" 
+
+    ___________________________________________________________________________
+
+Now that we have something to say, it's time to record it. 
+
+To begin, we'll need to `Download and install` <a href="https://www.audacityteam.org">Audacity</a>, a free software tool for "mixing" sounds. 
 ```
 1. Make a selection from the "Downloads" drop down menu. 
 2. Download the program installation file (the first file link listed on the download page for your operating system).
@@ -64,20 +87,28 @@ The first thing we'll need to do is `download and install` <a href="https://www.
 ```
 When you open Audacity, it should look something like this: 
 
-<img src="https://github.com/makingsounds/sounds/blob/master/Theme_Light.png?raw=true"></img>
+<img src="https://github.com/makingsounds/sounds/blob/master/Theme_Light.png?raw=true">
 
 Your default setting for the input device should be `Built-in Microphone`. If it isn't click the drop down menu to select for Built-in Microphone. Let's try it out! 
 
 ```
 1. Click the `record` button (indicated by a red circle) and the software will start recording
-2. Speak into your computer's microphone (usually a small hole in the body of the computer). 
+2. Speak into your computer's microphone (usually a small hole in the body of the computer) and state your podcast's `title`.  
 3. Click the `stop` button (indicated by a black square) and the software will stop recording. 
 4. Click the `play` botton (indicated by a green triangle) and the software will play back your recording. 
 ```
-We've just made a voice recording! 
+We've just made a voice recording of our podcast's title. 
 
 <img src="https://media.giphy.com/media/zD2SpVI4vBLeo/giphy.gif">
 
+Now, let's capture our tag-line. 
+```
+1. Click `tracks` at the top menu in Audacity. "Add New" --> "Stereo Track." 
+2. Now click `record`(indicated by a red circle) and the software will start recording
+3. Speak into your computer's microphone (usually a small hole in the body of the computer) and state your podcast's `tag line`.  
+4. Click the `stop` button (indicated by a black square) and the software will stop recording. 
+5. Click the `play` botton (indicated by a green triangle) and the software will play back your recording. 
+```
 ## 2. Putting Sounds Together
 ```markdown
 1. Numbered
