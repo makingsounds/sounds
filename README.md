@@ -17,7 +17,11 @@ Often sound is used as a "background," or "ambiance," or to give "atmosphere." A
 ### Selective Attention and the Problem of Noise
 Stop and listen for a second. What do you hear? Nothing? Try again. Do you hear an air conditioner? Birds? Other people chattering in the distance? These certainly aren't nothing. But, for some miraculous reason, we don't notice them. We, as humans, have a powerful ability to "tune out" unwanted noise--interference with the main signal we are attempting to receive--depending on the given task we are engaging. This is a well studied concept called "selective attention." To test your ability to selectively give attention, watch this video. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xNSgmm9FX2s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/xNSgmm9FX2s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Were you an effective selector? Or did you "miss" something? As it turns out, you didn't really miss anything. Just because you were not necessarily looking for a moonwalking gorrilla doesn't mean that it wasn't part of the bouquet of visual elements in the video. It was (and a fairly prominent one on second glance). But, because humans are exceptional selectors, you just "tuned it out" to focus on a specific goal in the video. We do the same thing with regard to sound when we are in a noisy cafeteria, or standing outside as a plane flies overhead. We can focus on a particular sound and tune out the noise.
+
+In the case of sound recording, microphones are not as good at purposeful selection of sound. If you've ever recorded outside on a gusty day, or while a crowd cheers in the background, you know firsthand that sounds that have nothing to do with what we are attempting to capture can overpower our desired signal. We call this noise. 
 
 ```markdown
 Syntax highlighted code block
