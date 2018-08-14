@@ -1,10 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to the Module
 
-You can use the [editor on GitHub](https://github.com/makingsounds/sounds/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here in this module we'll learn some general principles of sound recording in order to make our own podcasts. The module is broken out into three parts: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Sound and Noise
+2. Recording Voice
+3. Designing Sounds
 
-### Markdown
+In order to complete the module you'll need access to `a laptop or desktop computer equipped with a microphone`. The rest of the activity will use free sound editing softare and audio files. 
+
+### Sound and Noise
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
