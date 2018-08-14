@@ -97,9 +97,8 @@ and state your podcast's `title`.
 recording. 
 ```
 
-We've just made a voice recording of our podcast's title. 
+We've just made a voice recording of our podcast's title! 
 
-<img src="https://media.giphy.com/media/zD2SpVI4vBLeo/giphy.gif">
 
 Now, let's capture our tag-line. 
 
@@ -136,19 +135,6 @@ After you've edited your sound files and moved them around to get a 5-8 second t
 
 ```
 1. Click `file` at the top menu in Audacity. "Export" --> "Export as WAV." 
-3. Locate your downloaded music file and "drag and drop" it into your new empty track.  
-4. Use the selection tool to "delete" and to "copy" and "paste" your files.   
-5. Cut your music track down to about 5-8 seconds by selecting and deleting extra 
-length of the file. 
-6. Use "cut" and "paste" to move your titel and tag-line sound files around to have them play at different times. 
+3. Name the file and save it to your desktop.  
 ```
-```markdown
-1. Numbered
-
-```
-
-```
-2. List
-
-```
-
+<img src="https://media.giphy.com/media/zD2SpVI4vBLeo/giphy.gif">
