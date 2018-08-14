@@ -10,7 +10,14 @@ In order to complete the module you'll need access to `a laptop or desktop compu
 
 ### Sound and Noise
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The human condition is something that we often talk about when we're talking about art. Photographs, imagery, vivid lingual descriptions, these things can make us feel a certain way--happy, sad, mad. What is particularly interesting about sound and the human condition--especially ambient sound--on the other hand, perhaps because of its direct connection to our nervous systems, is its ability to put us in a particular "mood." 
+
+Often sound is used as a "background," or "ambiance," or to give "atmosphere." And, within the frame of mood, it seems that this is one of the most powerful uses of sound as it does not tell us how to feel; it gives us cues for what emotions are appropriate in the first place. 
+
+### Selective Attention and the Problem of Noise
+Stop and listen for a second. What do you hear? Nothing? Try again. Do you hear an air conditioner? Birds? Other people chattering in the distance? These certainly aren't nothing. But, for some miraculous reason, we don't notice them. We, as humans, have a powerful ability to "tune out" unwanted noise--interference with the main signal we are attempting to receive--depending on the given task we are engaging. This is a well studied concept called "selective attention." To test your ability to selectively give attention, watch this video. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xNSgmm9FX2s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ```markdown
 Syntax highlighted code block
