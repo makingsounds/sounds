@@ -50,7 +50,7 @@ A sound with particular power is the human voice. But, the  thing that makes the
 
 2. Clipping is the result of getting a sound that is too loud for our recording system to process. While this might actually be a desirable result in some music genres, in most cases of voice recording, clipping is unpleasant and introduces distracting noise into the signal. Most recording software interfaces will include a simple volume meter that shades from green to yellow to red, where red indicates clipping. While we want to avoid clipping into the red, we also want to make sure that the sound that we are capturing is fully audible. Best practice is to "test" the sounds you'll be recording and adjust the volume to be "loud enough" without clipping. 
 
-![Image](src)
+![Image](https://commons.wikimedia.org/wiki/File:Clipping_1KHz_10V_DIV_clip_A_5ohms-1-.jpg#/media/File:Clipping_1KHz_10V_DIV_clip_A_5ohms-1-.jpg)
 
 Now that we have some basic terminology, let's record some voice! 
 
