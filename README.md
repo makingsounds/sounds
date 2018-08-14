@@ -89,7 +89,7 @@ When you open Audacity, it should look something like this:
 
 <img src="https://github.com/makingsounds/sounds/blob/master/Theme_Light.png?raw=true">
 
-Your default setting for the input device should be `Built-in Microphone`. If it isn't click the drop down menu to select for Built-in Microphone. Let's try it out! 
+Your default setting for the input device should be `Built-in Microphone`. If it isn't, click the drop down menu to select for Built-in Microphone. Let's try it out! 
 
 ```
 1. Click the `record` button (indicated by a red circle) and the software will start recording
