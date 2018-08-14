@@ -44,15 +44,19 @@ A sound with particular power is the human voice. But, the  thing that makes the
 
 ### Some Vocabulary to Help us Record Voice
 
-1. `Sibilance` is a byproduct of how people form words, and the restuling "pops" and "ess" sounds that come from people breathing into a microphone as they speak. When we are recording, generally speaking, we want to put the voice into the microphone, and keep the breath out. If you are experiencing sibilance in your recordings you can use a "wind screen" just in front of the microphone (some people just put a piece of thin cloth over their microphone. But, if a wind screen is not available, speaking at a very slight angle into the microphone can reduce sibilance.<a href="https://commons.wikimedia.org/wiki/File:Microphone_and_cover.JPG#/media/File:Microphone_and_cover.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Microphone_and_cover.JPG/1200px-Microphone_and_cover.JPG" alt="Microphone and cover.JPG"></a>
+1. `Sibilance` is a byproduct of how people form words, and the restuling "pops" and "ess" sounds that come from people breathing into a microphone as they speak. When we are recording, generally speaking, we want to put the voice into the microphone, and keep the breath out. If you are experiencing sibilance in your recordings you can use a "wind screen" just in front of the microphone (some people just put a piece of thin cloth over their microphone. But, if a wind screen is not available, speaking at a very slight angle into the microphone can reduce sibilance.
 
-2. `Clipping` is the result of getting a sound that is too loud for our recording system to process, and portions of the "waveform" are lost, or cut off. While this might actually be a desirable result in some music genres, in most cases of voice recording, clipping is unpleasant and introduces distracting noise into the signal. Most recording software interfaces will include a simple volume meter that shades from green to yellow to red, where red indicates clipping. While we want to avoid clipping into the red, we also want to make sure that the sound that we are capturing is fully audible. Best practice is to "test" the sounds you'll be recording and adjust the volume to be "loud enough" without clipping. <a href="https://commons.wikimedia.org/wiki/File:Clipping.svg#/media/File:Clipping.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Clipping.svg/1200px-Clipping.svg.png" alt="Clipping.svg"></a>
+<a href="https://commons.wikimedia.org/wiki/File:Microphone_and_cover.JPG#/media/File:Microphone_and_cover.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Microphone_and_cover.JPG/1200px-Microphone_and_cover.JPG" alt="Microphone and cover.JPG"></a>
+
+2. `Clipping` is the result of getting a sound that is too loud for our recording system to process, and portions of the "waveform" are lost, or cut off. While this might actually be a desirable result in some music genres, in most cases of voice recording, clipping is unpleasant and introduces distracting noise into the signal. Most recording software interfaces will include a simple volume meter that shades from green to yellow to red, where red indicates clipping. While we want to avoid clipping into the red, we also want to make sure that the sound that we are capturing is fully audible. Best practice is to "test" the sounds you'll be recording and adjust the volume to be "loud enough" without clipping. 
+
+<a href="https://commons.wikimedia.org/wiki/File:Clipping.svg#/media/File:Clipping.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Clipping.svg/1200px-Clipping.svg.png" alt="Clipping.svg"></a>
 
 Now that we have some basic terminology, let's record some voice! 
 
 ### Recording Voice
 
-The first thing we'll need to do is download and install Audacity, a free software tool for "mixing" sounds. 
+The first thing we'll need to do is download and install Audacity, a free software tool for "mixing" sounds. <iframe src="https://www.audacityteam.org/download/"</iframe>
 
 ## 2. Putting Sounds Together
 ```markdown
