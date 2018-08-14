@@ -8,7 +8,7 @@ Here in this module we'll learn some general principles of sound recording in or
 `
 In order to complete the module you'll need access to a laptop or desktop computer equipped with a microphone. You will also need to download and install free sound editing softare and audio files [instructions included below].` 
 
-## Sound and Noise
+## 1. Sound and Noise
 
 The human condition is something that we often talk about when we're talking about art. Photographs, imagery, vivid lingual descriptions, these things can make us feel a certain way--happy, sad, mad. What is particularly interesting about sound and the human condition is its ability to put us in a particular "mood." 
 
@@ -39,7 +39,7 @@ Then, close your eyes again and listen to this:
 
 What mood does this put you in? What are the elements that create this mood? Why? Can you imagine difficulties that the sound engineer might have had capturing this sound? What are those? How do you imagine they overcame these difficulties? We're going to be tackling our own answers to these questions as we do the activity. But before that, we'll move to a quick discussion of voice. 
 
-## Recording Voice
+## 2. Recording Voice
 A sound with particular power is the human voice. But, the  thing that makes the human voice wonderful is the exact thing that can make it frustrating to record--the human voice is dynamic, meaning that it moves up and down in volume, and shifts rapidly in texture. Some people have smooth voices, others have raspy ones. Some people speak quietly, while others boom. No matter how nice someone's voice is, recording voice requires awareness of `sibilance` and `clipping`. Let's talk about these ideas so they can help us improve our voice recordings. 
 
 ### Some Vocabulary to Help us Record Voice
@@ -54,7 +54,7 @@ A sound with particular power is the human voice. But, the  thing that makes the
 
 Now that we have some basic terminology, let's record some voice! 
 
-## Recording Voice
+## 3. Recording Voice
 
 OVERVIEW OF USING AUDACITY. SCREENSHOTS AND SAMPLE FILES. 
 
