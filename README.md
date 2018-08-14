@@ -18,7 +18,7 @@ Often sound is used as a "background," or "ambiance," or to give "atmosphere." A
 Stop and listen to your surroundings for a second. What do you hear? Nothing? Try again. Do you hear an air conditioner? Birds? Other people chattering in the distance? These certainly aren't nothing. But, for some miraculous reason, we don't notice them. We, as humans, have a powerful ability to "tune out" unwanted noise--interference with the main signal we are attempting to receive--depending on the given task we are engaging. This is a well studied concept called "selective attention." To test your ability to selectively give attention, watch this video. 
 
 
-<iframe align="middle" width="100%" height="100%" src="https://www.youtube.com/embed/xNSgmm9FX2s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe align="middle" width="1020" height="626" src="https://www.youtube.com/embed/xNSgmm9FX2s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 Were you an effective selector? Or did you "miss" something? As it turns out, you didn't really miss anything. Just because you were not necessarily looking for a moonwalking gorrilla doesn't mean that it wasn't part of the bouquet of visual elements in the video. It was (and a fairly prominent one on second glance). But, because humans are exceptional selectors, you just "tuned it out" to focus on a specific goal in the video. We do the same thing with regard to sound when we are in a noisy cafeteria, or standing outside as a plane flies overhead. We can focus on a particular sound and tune out the noise.
@@ -28,13 +28,13 @@ In the case of sound recording, microphones are not as good at selecting sounds-
 With all of this in mind, close your eyes, and listen to this: 
 
 
-<iframe align="middle" width="100%" height="100%" src="https://www.youtube.com/embed/KIochPABMLI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe align="middle" width="1020" height="626" src="https://www.youtube.com/embed/KIochPABMLI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 Then, close your eyes again and listen to this: 
 
 
-<iframe align="middle" width="100" height="100" src="https://www.youtube.com/embed/vZjDi3Ooqx8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe align="middle" width="1020" height="626" src="https://www.youtube.com/embed/vZjDi3Ooqx8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 What mood does this put you in? What are the elements that create this mood? Why? Can you imagine difficulties that the sound engineer might have had capturing this sound? What are those? How do you imagine they overcame these difficulties? We're going to be tackling our own answers to these questions as we do the activity. But before that, we'll move to a quick discussion of voice. 
