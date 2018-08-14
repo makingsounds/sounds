@@ -10,7 +10,7 @@ In order to complete the module you'll need access to `a laptop or desktop compu
 
 ## Sound and Noise
 
-The human condition is something that we often talk about when we're talking about art. Photographs, imagery, vivid lingual descriptions, these things can make us feel a certain way--happy, sad, mad. What is particularly interesting about sound and the human condition--especially ambient sound--on the other hand, perhaps because of its direct connection to our nervous systems, is its ability to put us in a particular "mood." 
+The human condition is something that we often talk about when we're talking about art. Photographs, imagery, vivid lingual descriptions, these things can make us feel a certain way--happy, sad, mad. What is particularly interesting about sound and the human condition is its ability to put us in a particular "mood." 
 
 Often sound is used as a "background," or "ambiance," or to give "atmosphere." And, within the frame of mood, it seems that this is one of the most powerful uses of sound as it does not tell us how to feel; it gives us cues for what emotions are appropriate in the first place. 
 
