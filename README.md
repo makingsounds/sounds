@@ -121,7 +121,16 @@ Podcasts, like many other recurring media forms (television shows, sitcoms, radi
 
 Because the internet is an amazing place there are online repositories of free-to-use music files. `Go and peruse` <a href="https://commons.wikimedia.org/wiki/Category:Audio_files_of_music">The WikiMedia Commons</a>, a free to use repository of sounds. Another option, I highly suggest is <a href="http://freemusicarchive.org/music">The Free Music Archive</a>. 
 
-After you find a music file that you like, 
+After you find a music file that you like: 
+```
+1. "Download" the music file to your computer. 
+2. Click `tracks` at the top menu in Audacity. "Add New" --> "Stereo Track." 
+3. Locate your downloaded music file and "drag and drop" it into your new empty track.  
+4. Use the selection tool  
+5. Click the `play` botton (indicated by a green triangle) and the software will play back your 
+recording. 
+```
+
 ```markdown
 1. Numbered
 
