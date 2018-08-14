@@ -126,11 +126,22 @@ After you find a music file that you like:
 1. "Download" the music file to your computer. 
 2. Click `tracks` at the top menu in Audacity. "Add New" --> "Stereo Track." 
 3. Locate your downloaded music file and "drag and drop" it into your new empty track.  
-4. Use the selection tool  
-5. Click the `play` botton (indicated by a green triangle) and the software will play back your 
-recording. 
+4. Use the selection tool to "delete" and to "copy" and "paste" your files.   
+5. Cut your music track down to about 5-8 seconds by selecting and deleting extra 
+length of the file. 
+6. Use "cut" and "paste" to move your titel and tag-line sound files around to have them play at different times. 
 ```
 
+After you've edited your sound files and moved them around to get a 5-8 second title-sequence that you're happy with, 
+
+```
+1. Click `file` at the top menu in Audacity. "Export" --> "Export as WAV." 
+3. Locate your downloaded music file and "drag and drop" it into your new empty track.  
+4. Use the selection tool to "delete" and to "copy" and "paste" your files.   
+5. Cut your music track down to about 5-8 seconds by selecting and deleting extra 
+length of the file. 
+6. Use "cut" and "paste" to move your titel and tag-line sound files around to have them play at different times. 
+```
 ```markdown
 1. Numbered
 
