@@ -1,15 +1,13 @@
 # Module Overview
-
-Here in this module we'll learn some general principles of sound recording in order to make our own podcasts. The module is broken out into three parts: 
+Here in this module we'll learn some general principles of sound recording in order to start making our own podcasts. In particular we'll be making our own podcast title-sequences. The module is broken out into three parts: 
 
 1. Sound and Noise
 2. Recording Voice
-3. Putting Sounds Together
+3. Putting Sounds Together into a Title-Sequence
 
     `To complete the module you'll need access to a laptop or desktop computer equipped with a microphone. You will also need to download and install free sound editing softare and audio files [instructions included below].` 
 
 ## 1. Sound and Noise
-
 The human condition is something that we often talk about when we're talking about art. Photographs, imagery, vivid lingual descriptions, these things can make us feel a certain way--happy, sad, mad. What is particularly interesting about sound and the human condition is its ability to put us in a particular "mood." 
 
 Often sound is used as a "background," or "ambiance," or to give "atmosphere." And, within the frame of mood, it seems that this is one of the most powerful uses of sound as it does not tell us how to feel; it gives us cues for what emotions are appropriate in the first place. 
@@ -43,7 +41,6 @@ What mood does this put you in? What are the elements that create this mood? Why
 A sound with particular power is the human voice. But, the  thing that makes the human voice wonderful is the exact thing that can make it frustrating to record--the human voice is dynamic, meaning that it moves up and down in volume, and shifts rapidly in texture. Some people have smooth voices, others have raspy ones. Some people speak quietly, while others boom. No matter how nice someone's voice is, recording voice requires awareness of `sibilance` and `clipping`. Let's talk about these ideas so they can help us improve our voice recordings. 
 
 ### Some Vocabulary to Help us Record Voice
-
 1. `Sibilance` is a byproduct of how people form words, and the restuling "pops" and "ess" sounds that come from people breathing into a microphone as they speak. When we are recording, generally speaking, we want to put the voice into the microphone, and keep the breath out. If you are experiencing sibilance in your recordings you can use a "wind screen" just in front of the microphone (some people just put a piece of thin cloth over their microphone. But, if a wind screen is not available, speaking at a very slight angle into the microphone can reduce sibilance.
 
 <a href="https://commons.wikimedia.org/wiki/File:Microphone_and_cover.JPG#/media/File:Microphone_and_cover.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Microphone_and_cover.JPG/1200px-Microphone_and_cover.JPG" alt="Microphone and cover.JPG"></a>
@@ -55,7 +52,6 @@ A sound with particular power is the human voice. But, the  thing that makes the
 Now that we have some basic terminology, let's record some voice! 
 
 ### Recording Voice
-
 The first thing we'll need to do is come up with somethign to say. On a sheet of paper, `write down answers to these three questions`: 
 
 1. If you were going to have your own podcast what kind of podcast would it be? 
@@ -73,7 +69,7 @@ away of your podcast as a single sentence.
 
     ___________________________________________________________________________
 
-3. What would your `tag-line` be? For example: "Where peopple learn to share their voice!" 
+3. What would your `tag-line` be? For example: "Where people learn to share their voice!" 
 
     ___________________________________________________________________________
 
@@ -100,11 +96,13 @@ and state your podcast's `title`.
 4. Click the `play` botton (indicated by a green triangle) and the software will play back your 
 recording. 
 ```
+
 We've just made a voice recording of our podcast's title. 
 
 <img src="https://media.giphy.com/media/zD2SpVI4vBLeo/giphy.gif">
 
 Now, let's capture our tag-line. 
+
 ```
 1. Click `tracks` at the top menu in Audacity. "Add New" --> "Stereo Track." 
 2. Now click `record`(indicated by a red circle) and the software will start recording
@@ -114,7 +112,14 @@ and state your podcast's `tag line`.
 5. Click the `play` botton (indicated by a green triangle) and the software will play back your 
 recording. 
 ```
-## 2. Putting Sounds Together
+
+Now that we have our title and tag-lines recorded as their own audio tracks we can mix them with some more sounds to create our title sequences. 
+
+## 2. Putting Sounds Together into a Title-Sequence
+
+Podcasts, like many other recurring media forms (television shows, sitcoms, radio shows) have their own title-sequences. Usually a small bit of music, mixed in with the title of the show and a tag-line. 
+
+Because the internet is an amazing place there are online repositories of free-to-use music files. `Go and peruse` <a href="https://freesound.org">freesound.org</a>, a free software tool for "mixing" sounds. I highly suggest looking at the `Music` files<a href="https://freesound.org/browse/tags/music/">Audacity</a>
 ```markdown
 1. Numbered
 
