@@ -82,7 +82,8 @@ Now that we have something to say, it's time to record it.
 To begin, we'll need to `Download and install` <a href="https://www.audacityteam.org">Audacity</a>, a free software tool for "mixing" sounds. 
 ```
 1. Make a selection from the "Downloads" drop down menu. 
-2. Download the program installation file (the first file link listed on the download page for your operating system).
+2. Download the program installation file (the first file link listed 
+on the download page for your operating system).
 3. Follow instructions for installation.  
 ```
 When you open Audacity, it should look something like this: 
@@ -93,9 +94,11 @@ Your default setting for the input device should be `Built-in Microphone`. If it
 
 ```
 1. Click the `record` button (indicated by a red circle) and the software will start recording
-2. Speak into your computer's microphone (usually a small hole in the body of the computer) and state your podcast's `title`.  
+2. Speak into your computer's microphone (usually a small hole in the body of the computer) 
+and state your podcast's `title`.  
 3. Click the `stop` button (indicated by a black square) and the software will stop recording. 
-4. Click the `play` botton (indicated by a green triangle) and the software will play back your recording. 
+4. Click the `play` botton (indicated by a green triangle) and the software will play back your 
+recording. 
 ```
 We've just made a voice recording of our podcast's title. 
 
@@ -105,9 +108,11 @@ Now, let's capture our tag-line.
 ```
 1. Click `tracks` at the top menu in Audacity. "Add New" --> "Stereo Track." 
 2. Now click `record`(indicated by a red circle) and the software will start recording
-3. Speak into your computer's microphone (usually a small hole in the body of the computer) and state your podcast's `tag line`.  
+3. Speak into your computer's microphone (usually a small hole in the body of the computer) 
+and state your podcast's `tag line`.  
 4. Click the `stop` button (indicated by a black square) and the software will stop recording. 
-5. Click the `play` botton (indicated by a green triangle) and the software will play back your recording. 
+5. Click the `play` botton (indicated by a green triangle) and the software will play back your 
+recording. 
 ```
 ## 2. Putting Sounds Together
 ```markdown
