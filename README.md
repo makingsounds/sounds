@@ -5,6 +5,7 @@ Here in this module we'll learn some general principles of sound recording in or
 1. Sound and Noise
 2. Recording Voice
 3. Putting Sounds Together
+
 `
 In order to complete the module you'll need access to a laptop or desktop computer equipped with a microphone. You will also need to download and install free sound editing softare and audio files [instructions included below].` 
 
