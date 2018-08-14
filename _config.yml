@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: Making Podcasts
 description: A Brief Exercise for Making, and Thinking about, Sounds
 show_downloads: false
+github: false 
