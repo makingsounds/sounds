@@ -63,7 +63,7 @@ The first thing we'll need to do is `download and install` <a href="https://www.
 3. Follow instructions for installation. 
 4. After installation has copmpleted, open Audacity. 
 ```
-<img src="sounds/Theme_Light.png"></img>
+<img src="https://github.com/makingsounds/sounds/blob/master/Theme_Light.png?raw=true"></img>
 
 
 
