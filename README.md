@@ -15,7 +15,7 @@ The human condition is something that we often talk about when we're talking abo
 Often sound is used as a "background," or "ambiance," or to give "atmosphere." And, within the frame of mood, it seems that this is one of the most powerful uses of sound as it does not tell us how to feel; it gives us cues for what emotions are appropriate in the first place. 
 
 ### Selective Attention and the Problem of Noise
-Stop and listen for a second. What do you hear? Nothing? Try again. Do you hear an air conditioner? Birds? Other people chattering in the distance? These certainly aren't nothing. But, for some miraculous reason, we don't notice them. We, as humans, have a powerful ability to "tune out" unwanted noise--interference with the main signal we are attempting to receive--depending on the given task we are engaging. This is a well studied concept called "selective attention." To test your ability to selectively give attention, watch this video. 
+Stop and listen to your surroundings for a second. What do you hear? Nothing? Try again. Do you hear an air conditioner? Birds? Other people chattering in the distance? These certainly aren't nothing. But, for some miraculous reason, we don't notice them. We, as humans, have a powerful ability to "tune out" unwanted noise--interference with the main signal we are attempting to receive--depending on the given task we are engaging. This is a well studied concept called "selective attention." To test your ability to selectively give attention, watch this video. 
 
 <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/xNSgmm9FX2s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -34,6 +34,8 @@ Then, close your eyes again and listen to this:
 What mood does this put you in? What are the elements that create this mood? Why? Can you imagine difficulties that the sound engineer might have had capturing this sound? What are those? How do you imagine they overcame these difficulties? We're going to be tackling our own answers to these questions as we do the activity. But before that, we'll move to a quick discussion of voice. 
 
 ## Recording Voice
+
+
 
 ```markdown
 Syntax highlighted code block
