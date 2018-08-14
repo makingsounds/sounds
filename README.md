@@ -137,4 +137,6 @@ After you've edited your sound files and moved them around to get a 5-8 second t
 1. Click `file` at the top menu in Audacity. "Export" --> "Export as WAV." 
 3. Name the file and save it to your desktop.  
 ```
+We just made a title-sequence for our podcast! 
+
 <img src="https://media.giphy.com/media/zD2SpVI4vBLeo/giphy.gif">
