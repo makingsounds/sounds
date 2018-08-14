@@ -1,4 +1,4 @@
-## Welcome to the Module
+## Module Overview
 
 Here in this module we'll learn some general principles of sound recording in order to make our own podcasts. The module is broken out into three parts: 
 
