@@ -60,12 +60,23 @@ The first thing we'll need to do is `download and install` <a href="https://www.
 ```
 1. Make a selection from the "Downloads" drop down menu. 
 2. Download the program installation file (the first file link listed on the download page for your operating system).
-3. Follow instructions for installation. 
-4. After installation has copmpleted, open Audacity. 
+3. Follow instructions for installation.  
 ```
+When you open Audacity, it should look something like this: 
+
 <img src="https://github.com/makingsounds/sounds/blob/master/Theme_Light.png?raw=true"></img>
 
+Your default setting for the input device should be `Built-in Microphone`. If it isn't click the drop down menu to select for Built-in Microphone. Let's try it out! 
 
+```
+1. Click the `record` button (indicated by a red circle) and the software will start recording
+2. Speak into your computer's microphone (usually a small hole in the body of the computer). 
+3. Click the `stop` button (indicated by a black square) and the software will stop recording. 
+4. Click the `play` botton (indicated by a green triangle) and the software will play back your recording. 
+```
+We've just made a voice recording! 
+
+<img src="https://media.giphy.com/media/zD2SpVI4vBLeo/giphy.gif">
 
 ## 2. Putting Sounds Together
 ```markdown
