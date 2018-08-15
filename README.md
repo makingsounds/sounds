@@ -130,7 +130,8 @@ After you find a music file that you like:
 4. Use the selection tool to "delete" and to "copy" and "paste" your files.   
 5. Cut your music track down to about 5-8 seconds by selecting and deleting extra 
 length of the file. 
-6. Use "cut" and "paste" to move your titel and tag-line sound files around to have them play at different times. 
+6. Use "cut" and "paste" to move your title and tag-line sound files around 
+to have them play at different times when you click play. 
 ```
 
 After you've edited your sound files and moved them around to get a 5-8 second title-sequence that you're happy with, 
