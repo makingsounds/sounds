@@ -153,8 +153,7 @@ Find additional resources below for perfecting your podcasting skills, and for h
 
 # Resources for Continuing to Make Podcasts
 
-1. This is an excellent elaboration on the editing features of Audacity. 
-<iframe width="800" height="500" src="https://www.youtube.com/embed/xl-WDjWrTtk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+1. This is an excellent elaboration on the editing features of Audacity.<iframe width="800" height="500" src="https://www.youtube.com/embed/xl-WDjWrTtk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 2. <a src="https://soundcloud.com/for/podcasting">Sound Cloud</a> is an easy to use publishing tool for hosting your podcast files. 
  
