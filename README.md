@@ -58,6 +58,7 @@ The first thing we'll need to do is come up with somethign to say. On a sheet of
     * A journalistic (news) podcast
     * An entertainment (fun) podcast
     * A cultural commentary and critique (ideas) podcast
+    
     ___________________________________________________________________________
     
 2. What would the `main take away` be for your podcast. That is, would they learn about boats, 
