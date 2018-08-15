@@ -141,7 +141,7 @@ We just made a title-sequence for your podcast!
 
 <img src="https://media.giphy.com/media/zD2SpVI4vBLeo/giphy.gif">
 
-#Resources for Continuing to Make Podcasts
+# Resources for Continuing to Make Podcasts
 
 An excellent elaboration on the editing features of Audacity. 
 <iframe width="800" height="500" src="https://www.youtube.com/embed/xl-WDjWrTtk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
