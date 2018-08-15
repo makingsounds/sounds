@@ -55,9 +55,9 @@ Now that we have some basic terminology, let's record some voice!
 The first thing we'll need to do is come up with somethign to say. On a sheet of paper, `write` down answers to these three questions: 
 
 1. If you were going to have your own podcast what kind of podcast would it be? 
-    a. A journalistic (news) podcast
-    b. An entertainment (fun) podcast
-    c. A cultural commentary and critique (ideas) podcast
+    * A journalistic (news) podcast
+    * An entertainment (fun) podcast
+    * A cultural commentary and critique (ideas) podcast
     
 2. What would the `main take away` be for your podcast. That is, would they learn about boats, 
 or hear new music, or think about things they hadn't thought about before? Write the take 
