@@ -52,7 +52,7 @@ A sound with particular power is the human voice. But, the  thing that makes the
 Now that we have some basic terminology, let's record some voice! 
 
 ### Recording Our Own Voice
-The first thing we'll need to do is come up with somethign to say. On a sheet of paper, `write down answers to these three questions`: 
+The first thing we'll need to do is come up with somethign to say. On a sheet of paper, `write` down answers to these three questions: 
 
 1. If you were going to have your own podcast what kind of podcast would it be? 
     a. A journalistic (news) podcast
@@ -75,7 +75,7 @@ away of your podcast as a single sentence.
 
 Now that we have something to say, it's time to record it. 
 
-To begin, we'll need to `Download and install` <a href="https://www.audacityteam.org">Audacity</a>, a free software tool for "mixing" sounds. 
+To begin, we'll need to `download and install` <a href="https://www.audacityteam.org">Audacity</a>, a free software tool for "mixing" sounds. 
 ```
 1. Make a selection from the "Downloads" drop down menu. 
 2. Download the program installation file (the first file link listed 
@@ -118,7 +118,7 @@ Now that we have our title and tag-lines recorded as their own audio tracks we c
 
 Podcasts, like many other recurring media forms (television shows, sitcoms, radio shows) have their own title-sequences. Usually a small bit of music, mixed in with the title of the show and a tag-line. 
 
-Because the internet is an amazing place there are online repositories of free-to-use music files. `Go and peruse` <a href="https://commons.wikimedia.org/wiki/Category:Audio_files_of_music">The WikiMedia Commons</a>, a free to use repository of sounds. Another option, I highly suggest is <a href="http://freemusicarchive.org/music">The Free Music Archive</a>. 
+Because the internet is an amazing place there are online repositories of free-to-use music files. Go and `peruse` <a href="https://commons.wikimedia.org/wiki/Category:Audio_files_of_music">The WikiMedia Commons</a>, a free to use repository of sounds. Another option, I highly suggest is <a href="http://freemusicarchive.org/music">The Free Music Archive</a>. 
 
 After you find a music file that you like: 
 ```
@@ -140,6 +140,14 @@ After you've edited your sound files and moved them around to get a 5-8 second t
 We just made a title-sequence for your podcast! 
 
 <img src="https://media.giphy.com/media/zD2SpVI4vBLeo/giphy.gif">
+
+Find additional resources below for perfecting your podcasting skills, and for hosting your podcasts for others hear.
+
+
+
+
+
+
 
 # Resources for Continuing to Make Podcasts
 
