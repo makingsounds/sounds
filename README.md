@@ -151,9 +151,9 @@ Find additional resources below for perfecting your podcasting skills, and for h
 
 # Resources for Continuing to Make Podcasts
 
-This is an excellent elaboration on the editing features of Audacity. 
+1. This is an excellent elaboration on the editing features of Audacity. 
 <iframe width="800" height="500" src="https://www.youtube.com/embed/xl-WDjWrTtk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<a src="https://soundcloud.com/for/podcasting">Sound Cloud</a> is an easy to use publishing tool for hosting your podcast files. 
+2. <a src="https://soundcloud.com/for/podcasting">Sound Cloud</a> is an easy to use publishing tool for hosting your podcast files. 
  
-In-depth online courses on podcasting offered through <a src="https://www.lynda.com/Podcasting-training-tutorials/1344-0.html">lynda.com</a>. Courses can be accessed through a free trial, or with a library card through the <a src="https://www.lynda.com/portal/sip?org=spl.org">library website</a>
+3. In-depth online courses on podcasting offered through <a src="https://www.lynda.com/Podcasting-training-tutorials/1344-0.html">lynda.com</a>. Courses can be accessed through a free trial, or with a library card through the <a src="https://www.lynda.com/portal/sip?org=spl.org">library website</a>
