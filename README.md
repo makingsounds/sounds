@@ -66,7 +66,7 @@ away of your podcast as a single sentence.
 
     ___________________________________________________________________________
 
-3. What would you `title` your podcast? Example: "The Podcasts Podcast." Write down your title. 
+3. What would you `title` your podcast? Example: "The Podcaster's Podcast." Write down your title. 
 
     ___________________________________________________________________________
 
