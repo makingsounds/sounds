@@ -54,7 +54,7 @@ Now that we have some basic terminology, let's record some voice!
 ### Recording Our Own Voice
 The first thing we'll need to do is come up with somethign to say. On a sheet of paper, `write` down answers to these three questions: 
 
-1. If you were going to have your own podcast what kind of podcast would it be? 
+1. If you were going to have your own podcast what `type` of podcast would it be? 
     * A journalistic (news) podcast
     * An entertainment (fun) podcast
     * A cultural commentary and critique (ideas) podcast
