@@ -51,7 +51,7 @@ A sound with particular power is the human voice. But, the  thing that makes the
 
 Now that we have some basic terminology, let's record some voice! 
 
-### Recording Voice
+### Recording Our Own Voice
 The first thing we'll need to do is come up with somethign to say. On a sheet of paper, `write down answers to these three questions`: 
 
 1. If you were going to have your own podcast what kind of podcast would it be? 
@@ -114,7 +114,7 @@ recording.
 
 Now that we have our title and tag-lines recorded as their own audio tracks we can mix them with some more sounds to create our title sequences. 
 
-## 2. Putting Sounds Together into a Title-Sequence
+## 3. Putting Sounds Together into a Title-Sequence
 
 Podcasts, like many other recurring media forms (television shows, sitcoms, radio shows) have their own title-sequences. Usually a small bit of music, mixed in with the title of the show and a tag-line. 
 
