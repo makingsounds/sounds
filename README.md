@@ -140,3 +140,11 @@ After you've edited your sound files and moved them around to get a 5-8 second t
 We just made a title-sequence for our podcast! 
 
 <img src="https://media.giphy.com/media/zD2SpVI4vBLeo/giphy.gif">
+
+#Resources for Continuing to Make Podcasts
+
+An excellent elaboration on the editing features of Audacity. 
+<iframe width="800" height="500" src="https://www.youtube.com/embed/xl-WDjWrTtk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+An easy to use publishing tool for hosting your podcast files. 
+https://soundcloud.com/for/podcasting 
