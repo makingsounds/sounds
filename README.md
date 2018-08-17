@@ -38,10 +38,10 @@ Then, close your eyes again and listen to this:
 What mood does this put you in? What are the elements that create this mood? Why? Can you imagine difficulties that the sound engineer might have had capturing this sound? What are those? How do you imagine they overcame these difficulties? We're going to be tackling our own answers to these questions as we do the activity. But before that, we'll move to a quick discussion of voice. 
 
 ## 2. Recording Voice
-A sound with particular power is the human voice. But, the  thing that makes the human voice wonderful is the exact thing that can make it frustrating to record--the human voice is dynamic, meaning that it moves up and down in volume, and shifts rapidly in texture. Some people have smooth voices, others have raspy ones. Some people speak quietly, while others boom. No matter how nice someone's voice is, recording voice requires awareness of `sibilance` and `clipping`. Let's talk about these ideas so they can help us improve our voice recordings. 
+A sound with particular power is the human voice. But, the thing that makes the human voice wonderful is the exact thing that can make it frustrating to record--the human voice is dynamic, meaning that it moves up and down in volume, and shifts rapidly in texture. Some people have smooth voices, others have raspy ones. Some people speak quietly, while others boom. No matter how nice someone's voice is, recording voice requires awareness of `sibilance` and `clipping`. Let's talk about these ideas so they can help us improve our voice recordings. 
 
 ### Some Vocabulary to Help us Record Voice
-1. `Sibilance` is a byproduct of how people form words, and the restuling "pops" and "ess" sounds that come from people breathing into a microphone as they speak. When we are recording, generally speaking, we want to put the voice into the microphone, and keep the breath out. If you are experiencing sibilance in your recordings you can use a "wind screen" just in front of the microphone (some people just put a piece of thin cloth over their microphone. But, if a wind screen is not available, speaking at a very slight angle into the microphone can reduce sibilance.
+1. `Sibilance` is a byproduct of how people form words, and the resulting "pops" and "ess" sounds that come from people breathing into a microphone as they speak. When we are recording, generally speaking, we want to put the voice into the microphone, and keep the breath out. If you are experiencing sibilance in your recordings you can use a "wind screen" just in front of the microphone (some people just put a piece of thin cloth over their microphone. But, if a wind screen is not available, speaking at a very slight angle into the microphone can reduce sibilance.
 
 <a href="https://commons.wikimedia.org/wiki/File:Microphone_and_cover.JPG#/media/File:Microphone_and_cover.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Microphone_and_cover.JPG/1200px-Microphone_and_cover.JPG" alt="Microphone and cover.JPG"></a>
 
@@ -52,7 +52,7 @@ A sound with particular power is the human voice. But, the  thing that makes the
 Now that we have some basic terminology, let's record some voice! 
 
 ### Recording Our Own Voice
-The first thing we'll need to do is come up with somethign to say. On a sheet of paper, `write` down answers to these four questions: 
+The first thing we'll need to do is come up with something to say. On a sheet of paper, `write` down answers to these four questions: 
 
 1. If you were going to have your own podcast what `type` of podcast would it be? 
     * A journalistic (news) podcast
@@ -95,7 +95,7 @@ Your default setting for the input device should be `Built-in Microphone`. If it
 2. Speak into your computer's microphone (usually a small hole in the body of the computer) 
 and state your podcast's `title`.  
 3. Click the `stop` button (indicated by a black square) and the software will stop recording. 
-4. Click the `play` botton (indicated by a green triangle) and the software will play back your 
+4. Click the `play` button (indicated by a green triangle) and the software will play back your 
 recording. 
 ```
 
@@ -115,7 +115,7 @@ Now, let's capture our tag-line.
 3. Speak into your computer's microphone (usually a small hole in the body of the computer) 
 and state your podcast's `tag line`.  
 4. Click the `stop` button (indicated by a black square) and the software will stop recording. 
-5. Click the `play` botton (indicated by a green triangle) and the software will play back your 
+5. Click the `play` button (indicated by a green triangle) and the software will play back your 
 recording. 
 ```
 
@@ -131,7 +131,7 @@ Now that we have our title and tag-lines recorded as their own audio tracks we c
 
 Podcasts, like many other recurring media forms (television shows, sitcoms, radio shows) have their own title-sequences. Usually a small bit of music, mixed in with the title of the show and a tag-line. 
 
-Because the internet is an amazing place there are online repositories of free-to-use music files. Go and peruse <a href="http://freemusicarchive.org/search/?quicksearch=">The Free Music Archive</a>. Make sure to select only music that uses the appropriate "Creative Commons" licence. Ideally, you'll find a piece marked as "Public Domain." If not, you'll have to give attribution of the author and the place where you got the sound file somewhere in your podcast.   
+Because the internet is an amazing place there are online repositories of free-to-use music files. Go and peruse <a href="http://freemusicarchive.org/search/?quicksearch=">The Free Music Archive</a>. Make sure to select only music that has the appropriate "Creative Commons" license. Ideally, you'll find a piece marked as "Public Domain." If not, you'll have to give attribution of the author and the place where you got the sound file somewhere in your podcast.   
 
 For example, I've located a file called, "Earning Happiness," by John Bartmann, depicted in the screenshot below. Notice the `Public Domain` license indicated at the lower right of the file's information page. 
 
