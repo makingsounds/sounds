@@ -131,7 +131,7 @@ Now that we have our title and tag-lines recorded as their own audio tracks we c
 
 Podcasts, like many other recurring media forms (television shows, sitcoms, radio shows) have their own title-sequences. Usually a small bit of music, mixed in with the title of the show and a tag-line. 
 
-Because the internet is an amazing place there are online repositories of free-to-use music files. Go and peruse <a href="http://freemusicarchive.org/search/?quicksearch=">The Free Music Archive</a>. Make sure to select only music that uses the appropriate "Creative Commons" liscence. Ideally, you'll find a piece marked as "Public Domain." If not, you'll have to give attribution of the author and the place where you got the sound file somewhere in your podcast.   
+Because the internet is an amazing place there are online repositories of free-to-use music files. Go and peruse <a href="http://freemusicarchive.org/search/?quicksearch=">The Free Music Archive</a>. Make sure to select only music that uses the appropriate "Creative Commons" licence. Ideally, you'll find a piece marked as "Public Domain." If not, you'll have to give attribution of the author and the place where you got the sound file somewhere in your podcast.   
 
 For example, I've located a file called, "Earning Happiness," by John Bartmann, depicted in the screenshot below. Notice the `Public Domain` license indicated at the lower right of the file's information page. 
 
