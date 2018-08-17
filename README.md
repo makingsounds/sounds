@@ -151,7 +151,7 @@ After you find a music file that you like:
 2. Click `tracks` at the top menu in Audacity. "Add New" --> "Stereo Track." 
 3. Locate your downloaded music file and "drag and drop" it into your new empty track.  
 4. Use the selection tool to "delete" and to "copy" and "paste" your files.   
-5. Cut your music track down to about 5-8 seconds by selecting and deleting extra 
+5. Cut your music track down to about 3-8 seconds by selecting and deleting extra 
 length of the file. 
 6. Use "cut" and "paste" to move your title and tag-line sound files around 
 to have them play at different times when you click play. 
