@@ -120,7 +120,7 @@ Now that we have our title and tag-lines recorded as their own audio tracks we c
 
 Podcasts, like many other recurring media forms (television shows, sitcoms, radio shows) have their own title-sequences. Usually a small bit of music, mixed in with the title of the show and a tag-line. 
 
-Because the internet is an amazing place there are online repositories of free-to-use music files. Go and `peruse` <a href="https://commons.wikimedia.org/wiki/Category:Audio_files_of_music">The WikiMedia Commons</a>, a free to use repository of sounds. Another option, I highly suggest is <a href="http://freemusicarchive.org/music">The Free Music Archive</a>. 
+Because the internet is an amazing place there are online repositories of free-to-use music files. Go and `peruse` <a href="https://commons.wikimedia.org/wiki/Category:Audio_files_of_music">The WikiMedia Commons</a>, a free to use repository of sounds. Another option, I highly suggest is <a href="http://freemusicarchive.org/search/?quicksearch=">The Free Music Archive</a> (make sure to select only music that uses the appropriate "Creative Commons" liscence).  
 
 After you find a music file that you like: 
 ```
