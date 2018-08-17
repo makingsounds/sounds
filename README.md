@@ -179,7 +179,7 @@ We just made a title-sequence for your podcast!
 
 <img src="https://media.giphy.com/media/zD2SpVI4vBLeo/giphy.gif">
 
-Find additional resources below for perfecting your podcasting skills, and for hosting your podcasts for others hear.
+Find additional resources below for perfecting your podcasting skills, and for hosting your podcasts on the internet.
 
 
 
