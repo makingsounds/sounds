@@ -79,7 +79,7 @@ Now that we have something to say, it's time to record it.
 
 To begin, we'll need to `download and install` <a href="https://www.audacityteam.org">Audacity</a>, a free software tool for "mixing" sounds. 
 ```
-1. Make a selection from the "Downloads" drop down menu. 
+1. Select your appropriate operating system from the "Downloads" drop down menu. 
 2. Download the program installation file (the first file link listed 
 on the download page for your operating system).
 3. Follow instructions for installation.  
@@ -101,6 +101,11 @@ recording.
 
 We've just made a voice recording of our podcast's title! 
 
+Here's an example of a title voice track that we'll refer to later. 
+
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/487029414&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
 
 Now, let's capture our tag-line. 
 
@@ -114,6 +119,12 @@ and state your podcast's `tag line`.
 recording. 
 ```
 
+Here's an example of a tag line voice track that we will refer to later. 
+
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/487029492&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+
 Now that we have our title and tag-lines recorded as their own audio tracks we can mix them with some more sounds to create our title sequences. 
 
 ## 3. Putting Sounds Together into a Title-Sequence
@@ -124,7 +135,15 @@ Because the internet is an amazing place there are online repositories of free-t
 
 For example, I've located a file called, "Earning Happiness," by John Bartmann, depicted in the screenshot below. Notice the `Public Domain` license indicated at the lower right of the file's information page. 
 
+
 <img src="https://github.com/makingsounds/sounds/blob/master/fmascreenshot.png?raw=true">
+
+
+Have a listen to the original track, which we'll reference later. 
+
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/487029597&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
 
 After you find a music file that you like: 
 ```
@@ -138,7 +157,20 @@ length of the file.
 to have them play at different times when you click play. 
 ```
 
-After you've edited your sound files and moved them around to get a 5-8 second title-sequence that you're happy with, 
+Your individual tracks should look something like this: 
+
+
+<img src="https://github.com/makingsounds/sounds/blob/master/title-sequence-screenshot.png?raw=true">
+
+
+After you've edited your sound files and moved them around to get a 5-8 second title-sequence that you're happy with. 
+
+Here's an example of what you title sequence might sound like (note: that this track uses the "equalization" and "compression" `Effect` to give a smoother, less harsh sound to the overall track. 
+
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/487029864&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+
 
 ```
 1. Click `file` at the top menu in Audacity. "Export" --> "Export as WAV." 
