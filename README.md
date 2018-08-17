@@ -169,7 +169,7 @@ Here's an example of what you title sequence might sound like (note: that this t
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/487033989&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 
-After you've edited your sound files and moved them around to get a 5-8 second title-sequence that you're happy with. 
+After you've edited your sound files and moved them around to get a 3-8 second title-sequence that you're happy with. 
 
 ```
 1. Click `file` at the top menu in Audacity. "Export" --> "Export as WAV." 
