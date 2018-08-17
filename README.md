@@ -163,14 +163,13 @@ Your individual tracks should look something like this:
 <img src="https://github.com/makingsounds/sounds/blob/master/title-sequence-screenshot.png?raw=true">
 
 
-After you've edited your sound files and moved them around to get a 5-8 second title-sequence that you're happy with. 
-
-Here's an example of what you title sequence might sound like (note: that this track uses the "equalization" and "compression" `Effect` to give a smoother, less harsh sound to the overall track. 
+Here's an example of what you title sequence might sound like (note: that this track uses "normalization," "equalization," and "compression" `Effects` to even out the volume and to give a less harsh sound to the overall track. 
 
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/487033989&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 
+After you've edited your sound files and moved them around to get a 5-8 second title-sequence that you're happy with. 
 
 ```
 1. Click `file` at the top menu in Audacity. "Export" --> "Export as WAV." 
