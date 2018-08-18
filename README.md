@@ -91,7 +91,7 @@ When you open Audacity, it should look something like this:
 Your default setting for the input device should be `Built-in Microphone`. If it isn't, click the drop down menu to select for Built-in Microphone. Let's try it out! 
 
 ```
-1. Click the `record` button (indicated by a red circle) and the software will start recording
+1. Click the `record` button (indicated by a red circle) and the software will start recording.
 2. Speak into your computer's microphone (usually a small hole in the body of the computer) 
    and state your podcast's `title`.  
 3. Click the `stop` button (indicated by a black square) and the software will stop recording. 
@@ -111,7 +111,7 @@ Now, let's capture our tag-line.
 
 ```
 1. Click `tracks` at the top menu in Audacity. "Add New" --> "Stereo Track." 
-2. Now click `record`(indicated by a red circle) and the software will start recording
+2. Now click `record`(indicated by a red circle) and the software will start recording.
 3. Speak into your computer's microphone (usually a small hole in the body of the computer) 
    and state your podcast's `tag line`.  
 4. Click the `stop` button (indicated by a black square) and the software will stop recording. 
