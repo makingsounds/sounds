@@ -41,10 +41,7 @@ What mood does this put you in? What are the elements that create this mood? Why
 A sound with particular power is the human voice. But, the thing that makes the human voice wonderful is the exact thing that can make it frustrating to record--the human voice is dynamic, meaning that it moves up and down in volume, and shifts rapidly in texture. Some people have smooth voices, others have raspy ones. Some people speak quietly, while others boom. No matter how nice someone's voice is, recording voice requires awareness of `sibilance` and `clipping`. Let's talk about these ideas so they can help us improve our voice recordings. 
 
 ### Some Vocabulary to Help us Record Voice
-1. `Sibilance` is a byproduct of how people form words, and the resulting "pops" and "ess" sounds that come from people breathing into a microphone as they speak. When we are recording, generally speaking, we want to put the voice into the microphone, and keep the breath out. If you are experiencing sibilance in your recordings you can use a "wind screen" just in front of the microphone (some people just put a piece of thin cloth over their microphone. But, if a wind screen is not available, speaking at a very slight angle into the microphone can reduce sibilance.
-
-<a href="https://commons.wikimedia.org/wiki/File:Microphone_and_cover.JPG#/media/File:Microphone_and_cover.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Microphone_and_cover.JPG/1200px-Microphone_and_cover.JPG" alt="Microphone and cover.JPG"></a>
-
+1. `Sibilance` is a byproduct of how people form words, and the resulting "pops" and "ess" sounds that come from people breathing into a microphone as they speak. When we are recording, generally speaking, we want to put the voice into the microphone, and keep the breath out. If you are experiencing sibilance in your recordings you can use a "wind screen" just in front of the microphone (some people just put a piece of thin cloth over their microphone. But, if a wind screen is not available, speaking at a very slight angle into the microphone can reduce sibilance.<a href="https://commons.wikimedia.org/wiki/File:Microphone_and_cover.JPG#/media/File:Microphone_and_cover.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Microphone_and_cover.JPG/1200px-Microphone_and_cover.JPG" alt="Microphone and cover.JPG"></a>
 2. `Clipping` is the result of getting a sound that is too loud for our recording system to process, and portions of the "waveform" are lost, or cut off. While this might actually be a desirable result in some music genres, in most cases of voice recording, clipping is unpleasant and introduces distracting noise into the signal. Most recording software interfaces will include a simple volume meter that shades from green to yellow to red, where red indicates clipping. While we want to avoid clipping into the red, we also want to make sure that the sound that we are capturing is fully audible. Best practice is to "test" the sounds you'll be recording and adjust the volume to be "loud enough" without clipping. 
 
 <a href="https://commons.wikimedia.org/wiki/File:Clipping.svg#/media/File:Clipping.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Clipping.svg/1200px-Clipping.svg.png" alt="Clipping.svg"></a>
@@ -71,7 +68,7 @@ away of your podcast as a single sentence.
 
     ___________________________________________________________________________
 
-3. What would your `tag-line` be? For example: "Where people learn to share their voice!" 
+4. What would your `tag-line` be? For example: "Where people learn to share their voice!" 
 
     ___________________________________________________________________________
 
@@ -81,7 +78,7 @@ To begin, we'll need to `download and install` <a href="https://www.audacityteam
 ```
 1. Select your appropriate operating system from the "Downloads" drop down menu. 
 2. Download the program installation file (the first file link listed 
-on the download page for your operating system).
+   on the download page for your operating system).
 3. Follow instructions for installation.  
 ```
 When you open Audacity, it should look something like this: 
@@ -93,10 +90,10 @@ Your default setting for the input device should be `Built-in Microphone`. If it
 ```
 1. Click the `record` button (indicated by a red circle) and the software will start recording
 2. Speak into your computer's microphone (usually a small hole in the body of the computer) 
-and state your podcast's `title`.  
+   and state your podcast's `title`.  
 3. Click the `stop` button (indicated by a black square) and the software will stop recording. 
 4. Click the `play` button (indicated by a green triangle) and the software will play back your 
-recording. 
+   recording. 
 ```
 
 We've just made a voice recording of our podcast's title! 
@@ -113,10 +110,10 @@ Now, let's capture our tag-line.
 1. Click `tracks` at the top menu in Audacity. "Add New" --> "Stereo Track." 
 2. Now click `record`(indicated by a red circle) and the software will start recording
 3. Speak into your computer's microphone (usually a small hole in the body of the computer) 
-and state your podcast's `tag line`.  
+   and state your podcast's `tag line`.  
 4. Click the `stop` button (indicated by a black square) and the software will stop recording. 
 5. Click the `play` button (indicated by a green triangle) and the software will play back your 
-recording. 
+   recording. 
 ```
 
 Here's an example of a tag line voice track that we will refer to later. 
@@ -152,9 +149,9 @@ After you find a music file that you like:
 3. Locate your downloaded music file and "drag and drop" it into your new empty track.  
 4. Use the selection tool to "delete" and to "copy" and "paste" your files.   
 5. Cut your music track down to about 3-8 seconds by selecting and deleting extra 
-length of the file. 
+   length of the file. 
 6. Use "cut" and "paste" to move your title and tag-line sound files around 
-to have them play at different times when you click play. 
+   to have them play at different times when you click play. 
 ```
 
 Your individual tracks should look something like this: 
