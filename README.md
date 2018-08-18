@@ -61,13 +61,13 @@ The first thing we'll need to do is come up with something to say. On a sheet of
     
     ___________________________________________________________________________
     
-2. What would the `main take away` of your podcast be. That is, would your audience learn about boats, 
+2. What would the `main take away` of your podcast be? Would your audience learn about boats, 
 or hear new music, or think about things they hadn't thought about before? Write the take 
 away of your podcast as a single sentence. 
 
     ___________________________________________________________________________
 
-3. What would you `title` your podcast? Example: "The Podcaster's Podcast." Write down your title. 
+3. What would the `title` of your podcast be? Example: "The Podcaster's Podcast." Write down your title. 
 
     ___________________________________________________________________________
 
